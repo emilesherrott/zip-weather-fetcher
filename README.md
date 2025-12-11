@@ -1,38 +1,38 @@
 1. Clone the Repository
-git clone https://github.com/emilesherrott/zip-weather-fetcher.git
-cd zip-weather-fetcher
+`git clone https://github.com/emilesherrott/zip-weather-fetcher.git`
+`cd zip-weather-fetcher`
 
 2. Create a Virtual Environment (Recommended)
 
 It’s best to run the project in a virtual environment to manage dependencies.
 
-python3 -m venv venv
+`python3 -m venv venv`
 
 
 Activate the virtual environment:
 
 macOS / Linux:
 
-source venv/bin/activate
+`source venv/bin/activate`
 
 
 Windows (PowerShell):
 
-.\venv\Scripts\Activate.ps1
+`.\venv\Scripts\Activate.ps1`
 
 3. Install Dependencies
 
 Install the required Python packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 If you don’t have a requirements.txt, you can install manually:
 
-pip install requests
+`pip install requests`
 
 4. Run the Application
-python main.py
+`python main.py`
 
 
 The script will:
@@ -49,7 +49,7 @@ Print the combined data to the console.
 
 The data will be saved in:
 
-data/location_weather.json
+**data/location_weather.json**
 
 
 Example content:
