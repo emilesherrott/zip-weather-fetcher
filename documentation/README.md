@@ -1,5 +1,5 @@
 1. Clone the Repository
-git clone https://github.com/emilesherrott/zip-weather-fetcher.git
+git clone https://github.com/your-username/zip-weather-fetcher.git
 cd zip-weather-fetcher
 
 2. Create a Virtual Environment (Recommended)
